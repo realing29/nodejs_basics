@@ -1,0 +1,23 @@
+{
+  "name": "nodejs_basics",
+  "version": "1.0.0",
+  "description": "nodejs tutorial package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realing29/nodejs_basics.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "vasilaki <realing29@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realing29/nodejs_basics/issues"
+  },
+  "homepage": "https://github.com/realing29/nodejs_basics#readme"
+}
