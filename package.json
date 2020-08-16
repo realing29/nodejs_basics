@@ -1,6 +1,6 @@
 {
   "name": "nodejs_basics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "nodejs tutorial package",
   "main": "index.js",
   "scripts": {
